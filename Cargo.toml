@@ -1,7 +1,9 @@
 [package]
 name = "consensus"
-version = "0.1.0"
+version = "0.0.1"
+description = "Pure Rust implementation of Bitcoin consensus"
 authors = ["Oleg Andreev <oleganza@gmail.com>"]
 edition = "2018"
+license = "MIT"
 
 [dependencies]
