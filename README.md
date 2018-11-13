@@ -1,2 +1,3 @@
-# consensus
-Pure Rust implementation of Bitcoin consensus
+# Consensus
+
+Pure Rust implementation of Bitcoin consensus.
